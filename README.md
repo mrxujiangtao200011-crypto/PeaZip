@@ -1,6 +1,7 @@
 <div class="centered" align="center">
   
 # PeaZip Free Archiver
+[![Featured on AppWK](https://appwk.cn/badges/featured-dark.svg)](https://appwk.cn/apps/peazip)
 
   
 |    GitHub      |  GitHub Latest |   SourceForge  |     Flathub    |
